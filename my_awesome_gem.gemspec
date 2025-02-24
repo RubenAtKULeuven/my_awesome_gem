@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name = "my_awesome_gem"
   spec.version = MyAwesomeGem::VERSION
   spec.authors = ["Ruben Vanoverschelde"]
-  spec.email = ["ruben.vanoverschelde@kuleuven.be"]
+  spec.email = ["ruben.vanoverschelde@hotmail.be"]
 
   spec.summary = "test"
   spec.description = "test"
