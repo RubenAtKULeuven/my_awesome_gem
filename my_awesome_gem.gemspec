@@ -3,8 +3,8 @@
 require 'rake'
 
 Gem::Specification.new do |s|
-  s.name        = 'my_awesome_gem'
-  s.version     = '0.1.1'
+  s.name        = 'my_awesome_gem_test'
+  s.version     = '0.1.2'
   s.licenses    = ['MIT']
   s.summary     = 'Test to see how to work with Ruby gems.'
   s.description = 'Test to see how to work with Ruby gems.'
